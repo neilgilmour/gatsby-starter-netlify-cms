@@ -97,5 +97,11 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: The Jumbo plan is ideal for the larger drinker
+      items:
+        - Everything
+        - all the time
+      plan: Jumbo
+      price: '34'
 ---
 
